@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Tracker</string>
+    <string name="nueva_pelicula">New Movie</string>
+    <string name="titulo_pelicula">Title of the movie</string>
+    <string name="fecha_visualizacion">Date</string>
+    <string name="ciudad">City</string>
+    <string name="pelicula_no_encontrada">Movie not found</string>
+    <string name="error_red">Network error</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+    <string name="requerido">Required</string>
+    <string name="confirmacion_registro_pelicula">You wish to register</string>
+    <string name="titulo_alerta_registrar">Register movie</string>
+    <string name="confirmacion_eliminacion_pelicula">You want to remove</string>
+    <string name="titulo_alerta_eliminar">Delete movie</string>
+</resources>

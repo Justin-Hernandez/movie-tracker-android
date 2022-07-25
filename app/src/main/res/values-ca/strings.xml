@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seguidor de pel·lícules</string>
+    <string name="nueva_pelicula">Nova pel·lícula</string>
+    <string name="titulo_pelicula">Títol de la pel·lícula</string>
+    <string name="fecha_visualizacion">Data</string>
+    <string name="ciudad">Ciutat</string>
+    <string name="pelicula_no_encontrada">No s\'ha trobat la pel·lícula</string>
+    <string name="error_red">Error de connexió</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="requerido">Obligatori</string>
+    <string name="confirmacion_registro_pelicula">Voleu registrar</string>
+    <string name="titulo_alerta_registrar">Registre pel·lícula</string>
+    <string name="confirmacion_eliminacion_pelicula">Voleu eliminar</string>
+    <string name="titulo_alerta_eliminar">Suprimeix la pel·lícula</string>
+</resources>

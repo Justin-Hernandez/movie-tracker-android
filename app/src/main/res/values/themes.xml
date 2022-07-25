@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Practicafinal" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/p_dark</item>
+        <item name="colorAccent">@color/p_light</item>
+        <item name="colorOnPrimary">@color/p_dark</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+
+    <style name="datepicker" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/p_dark</item>
+        <item name="colorAccent">@color/p_light</item>
+    </style>
+</resources>

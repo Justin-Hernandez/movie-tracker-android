@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tracker Peliculas</string>
+    <string name="nueva_pelicula">Nueva Película</string>
+    <string name="titulo_pelicula">Titulo de la película</string>
+    <string name="fecha_visualizacion">Fecha</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="pelicula_no_encontrada">Película no encontrada</string>
+    <string name="error_red">Error de red</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="requerido">Requerido</string>
+    <string name="confirmacion_registro_pelicula">Desea registrar</string>
+    <string name="titulo_alerta_registrar">Registrar película</string>
+    <string name="confirmacion_eliminacion_pelicula">Desea eliminar</string>
+    <string name="titulo_alerta_eliminar">Eliminar película</string>
+</resources>
